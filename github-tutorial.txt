@@ -1,0 +1,42 @@
+Github tutorials -
+
+* Download github from http://git-scm.com/download/win
+
+* Start setting it up from http://help.github.com then set up github
+
+* Then type the following code
+	
+	$ git config --global user.name "YOUR USERNAME"
+	$ git config --global user.email "YOUR EMAIL"
+
+* Then create repository
+
+* Then clone any repository for that type the following code -
+
+	$ git clone https://github.com/prabinp/Demo.git
+
+* Before clone change the folder location if needs by using cd command
+
+* Now the repository named folder will be downloaded in to the system cd into the folder
+
+* To open the README.md in to the terminal use the following command
+	
+	$ vim README.md 
+
+* This command will open repository in the terminal press -> "insert + i" to start typing. 
+  when done press "Esc" to get out. 
+  To quit and save ":x"
+
+* To check the status 
+	
+	$ git status
+
+* This will display the numbers of modified files
+
+* To add the modified file in to the github repository use the following command
+
+	$ git add FILE_NAME
+
+* To see modified files details in the repository 
+
+	$ git log
