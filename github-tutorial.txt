@@ -1,4 +1,4 @@
-Github tutorials -
+Github tutorials - download installation and basic commands
 
 * Download github from http://git-scm.com/download/win
 
